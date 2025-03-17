@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install the gem and add to the application's Gemfile by executing:
+Gemfileに以下のように記載してください。
 
 ```bash
 gem 'swimming_fish', '~> 0.1.0'
