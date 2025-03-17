@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "ログデバッグ時に、どこに出力結果があるか分かりやすくするためのgemです。"
   spec.description = "ログに魚を泳がしたかったので作成しました"
-  spec.homepage = "https://katatsumuri.wpx.jp/"
+  spec.homepage = "https://github.com/YmzknA/swimming_fish"
   spec.required_ruby_version = ">= 3.1.0"
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"

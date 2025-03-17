@@ -5,7 +5,7 @@ require_relative "swimming_fish/version"
 module Fish
   class Error < StandardError; end
   # Your code goes here...
-  def self.swimming
+  def self.swim
     pp "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     pp "              >>ログデバッグ魚群到来<<              "
     pp "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"

@@ -5,7 +5,7 @@
 Gemfileに以下のように記載してください。
 
 ```bash
-gem 'swimming_fish', '~> 0.1.0'
+gem 'swimming_fish', '~> 0.1.1'
 ```
 
 ## Usage
@@ -13,6 +13,6 @@ gem 'swimming_fish', '~> 0.1.0'
 小さな魚群を泳がせて、ログの場所が分かりやすくなるgemです。
 ログを記載する手前で以下のように記述してください。
 ```ruby
-Fish.swimming
+Fish.swim
 ```
 
