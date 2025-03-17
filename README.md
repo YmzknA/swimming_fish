@@ -15,4 +15,5 @@ gem 'swimming_fish', '~> 0.1.1'
 ```ruby
 Fish.swim
 ```
-
+そうすると、以下のようなログが流れます。
+![Image](https://github.com/user-attachments/assets/0caca403-2e8a-4853-ba71-78e061224a5b)
