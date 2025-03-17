@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["taiyo.yamazaki.35b@gmail.com"]
 
   spec.summary = "ログデバッグ時に、どこに出力結果があるか分かりやすくするためのgemです。"
-  spec.description = "Gemをつくってみる経験のために、簡単なgemを作成しました。"
+  spec.description = "ログに魚を泳がしたかったので作成しました"
   spec.homepage = "https://katatsumuri.wpx.jp/"
   spec.required_ruby_version = ">= 3.1.0"
 
