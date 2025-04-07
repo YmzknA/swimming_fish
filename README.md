@@ -5,7 +5,7 @@
 Gemfileに以下のように記載してください。
 
 ```bash
-gem 'swimming_fish', '~> 0.2.1'
+gem 'swimming_fish', '~> 0.2.2'
 ```
 
 ## Usage
