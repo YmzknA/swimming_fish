@@ -5,7 +5,7 @@
 Gemfileに以下のように記載してください。
 
 ```bash
-gem 'swimming_fish', '~> 0.1.2'
+gem 'swimming_fish', '~> 0.2.0'
 ```
 
 ## Usage
@@ -24,3 +24,8 @@ Fish.swim("ここからデバッグ内容")
 ```
 ![Image](https://github.com/user-attachments/assets/24827472-e811-43fb-a543-11ff7b4d3c69)
 
+また、以下のコマンドでも同様に行えます。
+```ruby
+logger.swim
+logger.swim("ここからデバッグ内容")
+```
